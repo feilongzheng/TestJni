@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/pre-dexed/debug/classes-f922bce7a12fd5944e6388c01e56291f11bf11db.jar" />
+    </item>
+    <item
+        jar="/Users/xfeng/Documents/untitled_folder/app/libs/xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/pre-dexed/debug/xUtils-2.6.14-135caa5ec1f3dbcf9ec6263cda91eb0cd20aa23c.jar" />
+    </item>
+    <item
+        jar="/Users/xfeng/环境/android/studio/android-sdk-r23/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f1e0aaae6e51cd77345bd374a1ba001e71457bf8.jar" />
+    </item>
+    <item
+        jar="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/xfeng/Documents/untitled_folder/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2b380a506756e77f1ddc123465e87f197c380f78.jar" />
+    </item>
+
+</items>
